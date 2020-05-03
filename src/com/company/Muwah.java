@@ -6,7 +6,6 @@ public class Muwah {
     private Date data_of_birth;
     private String address;
 
-
     public int getAge() {
         return age;
     }
